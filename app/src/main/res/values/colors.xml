@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Common Colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#6D6D6D</color>
+
+
+    <!-- Light Theme Colors -->
+    <color name="textColorLight">#000000</color> <!-- رنگ متن در تم روشن -->
+
+    <!-- Dark Theme Colors -->
+    <color name="textColorDark">#FFFFFF</color> <!-- رنگ متن در تم تاریک -->
+
+
+    <!-- Light Theme Colors -->
+    <color name="mainColorLight">#FFFFFF</color> <!-- رنگ متن در تم روشن -->
+
+    <!-- Dark Theme Colors -->
+    <color name="mainColorDark">#252525</color> <!-- رنگ متن در تم تاریک -->
+
+
+    <!-- Light Theme Colors -->
+    <color name="backColorLight">#000000</color> <!-- رنگ متن در تم روشن -->
+
+    <!-- Dark Theme Colors -->
+    <color name="backColorDark">#FFFFFF</color> <!-- رنگ متن در تم تاریک -->
+
+
+    <color name="TextColorLight">#000000</color> <!-- رنگ متن در تم روشن -->
+
+    <!-- Dark Theme Colors -->
+    <color name="TextColorDark">#FFFFFF</color> <!-- رنگ متن در تم تاریک -->
+
+
+    <!-- Light Theme Colors -->
+    <color name="accountColorLight">#E3F2FD</color> <!-- رنگ متن در تم روشن -->
+
+    <!-- Dark Theme Colors -->
+    <color name="accountColorDark">#E3F2FD</color> <!-- رنگ متن در تم تاریک -->
+
+
+    <!-- Light Theme Colors -->
+    <color name="textAccountColorLight">#000000</color> <!-- رنگ متن در تم روشن -->
+
+    <!-- Dark Theme Colors -->
+    <color name="textAccountColorDark">#1565C0</color> <!-- رنگ متن در تم تاریک -->
+
+    <!-- Primary Colors -->
+    <color name="colorPrimary">#1565C0</color>
+    <color name="colorPrimaryDark">#0D47A1</color>
+    <color name="colorAccent">#42A5F5</color>
+
+    <!-- Light Theme Colors -->
+    <color name="backgroundLight">#F5F5F5</color>
+    <color name="cardBackground">#FFFFFF</color>
+    <color name="textPrimary">#333333</color>
+    <color name="textSecondary">#757575</color>
+
+    <!-- Dark Theme Colors -->
+    <color name="backgroundDark">#121212</color>
+    <color name="cardBackgroundDark">#1E1E1E</color>
+    <color name="textPrimaryDark">#FFFFFF</color>
+    <color name="textSecondaryDark">#B0BEC5</color>
+    <color name="on_surface">#ffffff</color>
+    <color name="primary">#2dd4bf</color>
+    <color name="text_hint">#66ffffff</color>
+    <color name="surface_variant">#131b2e</color>
+    <color name="on_background">#2dd4bf</color>
+    <color name="on_primary">#2dd4bf</color>
+    <color name="on_surface_variant">#131b2e</color>
+    <color name="background">#0b1326</color>
+    <color name="divider_color">#1f2937</color>
+
+    <!-- Bottom Navigation Colors -->
+    <color name="bottom_nav_selected">#4A90E2</color>
+    <color name="bottom_nav_unselected">#757575</color>
+
+
+
+</resources>

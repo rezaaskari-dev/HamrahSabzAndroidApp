@@ -1,0 +1,11 @@
+<resources>
+    <declare-styleable name="YourCustomView">
+        <attr name="textColor" format="reference|color"/>
+        <attr name="mainColor" format="reference|color"/>
+        <attr name="accountColor" format="reference|color"/>
+        <attr name="backColor" format="reference|color"/>
+        <attr name="textAccount" format="reference|color"/>
+        <attr name="TextHome" format="reference|color"/>
+
+    </declare-styleable>
+</resources>

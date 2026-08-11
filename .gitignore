@@ -1,0 +1,60 @@
+# =========================
+# Gradle
+# =========================
+.gradle/
+**/build/
+
+# =========================
+# Local configuration
+# =========================
+local.properties
+
+# =========================
+# Android Studio / IntelliJ
+# =========================
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# =========================
+# Android generated files
+# =========================
+captures/
+.externalNativeBuild/
+.cxx/
+
+# =========================
+# Signing / private keys
+# =========================
+*.jks
+*.keystore
+*.p12
+*.pfx
+
+# =========================
+# Environment / secrets
+# =========================
+.env
+.env.*
+!.env.example
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Temporary files
+# =========================
+*.log
+*.tmp
+*.temp
+# =========================
+# Release / Build outputs
+# =========================
+**/release/
+**/debug/
+*.apk
+*.aab
